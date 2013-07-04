@@ -1,4 +1,8 @@
 Django-Demo
 ===========
+Django demo project.
 
-Django demo
+
+log
+===========
+(1).create and upload source. Using bootstrap
